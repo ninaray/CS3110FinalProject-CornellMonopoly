@@ -3,6 +3,7 @@
 A text-based Monopoly game modeled after the locations and features of Cornell University. Implemented in OCaml.
 
 # Group Members
+
 Nina Ray, May Zhou, Swathi Chakrapani, Lexi Neese
 
 # How to compile
